@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00cfb103-ee67-4f6b-8fa7-3c5acd512621" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/blog_task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/lastposted.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/navbar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/sidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/profile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/upload.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/create_admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/tags.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1000-103766514_274413300424082_1657173943935870987_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1000-117956471_375834866741015_9168678612229116165_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1000-118727147_369918370688897_6137749361266142170_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1000-161-1619066_designing-png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1000-2-20861_clipart-png-transparent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1000-214-2148863_mountain-vector-png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1000-246e155411c682514233616ca68635ad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1000-414615b2114c26984ff4f2d2f013ea2c.2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1000-4K-Red-Wallpaper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1000-558678.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1000-c1e763c73bf2f3a573859229f80aa18d.3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1000-e01eba6eadcca34852b727303e14c121.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1000-tree-736885_1280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1000-zuvaozztcll41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tag.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadarticle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viewarticle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_image/navbarImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_image/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_image/user.svg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Suhaib" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1j5qmdWozsjgJQD2W3Dx5iV8iof" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web_image" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web_image" />
+      <recent name="E:\xampp\htdocs\blog_task" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\blog_task" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00cfb103-ee67-4f6b-8fa7-3c5acd512621" name="Default Changelist" comment="" />
+      <created>1603104461369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603104461369</updated>
+      <workItem from="1603104462815" duration="6760000" />
+      <workItem from="1603111312326" duration="13467000" />
+      <workItem from="1603148738394" duration="136000" />
+      <workItem from="1603148897783" duration="33365000" />
+      <workItem from="1603203289884" duration="3003000" />
+      <workItem from="1603206368115" duration="1401000" />
+      <workItem from="1603273442639" duration="12351000" />
+      <workItem from="1603496274545" duration="14585000" />
+      <workItem from="1603620208870" duration="23967000" />
+      <workItem from="1603696877693" duration="10589000" />
+      <workItem from="1603711340383" duration="16312000" />
+      <workItem from="1603732820024" duration="629000" />
+      <workItem from="1603747258075" duration="4460000" />
+      <workItem from="1603781367721" duration="8607000" />
+      <workItem from="1603882191140" duration="9395000" />
+      <workItem from="1603968289319" duration="10412000" />
+      <workItem from="1604097962440" duration="18000" />
+      <workItem from="1604215361464" duration="6960000" />
+      <workItem from="1604229285488" duration="1795000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="218" width="800" height="684" key="#Deployment" timestamp="1604233539606">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="586" y="218" width="800" height="684" key="#Deployment/72.27.1848.1053@72.27.1848.1053" timestamp="1604233539606" />
+    <state x="411" y="127" width="800" height="719" key="#Plugins" timestamp="1603637693809">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="332" y="82" key="#Plugins/62.0.1474.864@62.0.1474.864" timestamp="1603203354462" />
+    <state x="411" y="127" width="800" height="719" key="#Plugins/72.27.1848.1053@72.27.1848.1053" timestamp="1603637693809" />
+    <state x="454" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604229325793">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="454" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1604229325793" />
+    <state x="703" y="307" width="568" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603882848228">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="565" y="230" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1474.864@62.0.1474.864" timestamp="1603168239256" />
+    <state x="703" y="307" width="568" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1603882848228" />
+    <state x="729" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603624822901">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="729" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1603624822901" />
+    <state x="510" y="110" width="962" height="893" key="CommitChangelistDialog2" timestamp="1604233610757">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="510" y="110" width="962" height="893" key="CommitChangelistDialog2/72.27.1848.1053@72.27.1848.1053" timestamp="1604233610757" />
+    <state x="580" y="174" key="FileChooserDialogImpl" timestamp="1603111227601">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="580" y="174" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1603111227601" />
+    <state x="851" y="453" width="290" height="207" key="Github.ShareDialog" timestamp="1604233281756">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="851" y="453" width="290" height="207" key="Github.ShareDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1604233281756" />
+    <state x="635" y="352" key="NewPhpFileDialog" timestamp="1603202967533">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="635" y="352" key="NewPhpFileDialog/62.0.1474.864@62.0.1474.864" timestamp="1603202967533" />
+    <state x="380" y="121" width="1022" height="737" key="SettingsEditor" timestamp="1604229585258">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="308" y="77" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1603104508012" />
+    <state x="380" y="121" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1604229585258" />
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1604233424556">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1604233424556" />
+    <state x="660" y="252" key="run.anything.popup" timestamp="1603661869236">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="660" y="252" key="run.anything.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1603661869236" />
+    <state x="573" y="248" width="843" height="827" key="search.everywhere.popup" timestamp="1603637655004">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="462" y="181" width="672" height="678" key="search.everywhere.popup/62.0.1474.864@62.0.1474.864" timestamp="1603502856986" />
+    <state x="573" y="248" width="843" height="827" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1603637655004" />
+    <state x="752" y="237" width="530" height="639" key="svn.repositoryBrowser" timestamp="1604233294380">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="752" y="237" width="530" height="639" key="svn.repositoryBrowser/72.27.1848.1053@72.27.1848.1053" timestamp="1604233294380" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/data.js</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,274 @@
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+
+body{
+    background-color: #f1f6f9;
+position: relative;
+}
+/* navbar section */
+#nav{
+    background-color: #1f3c75;
+
+
+}
+
+
+.navbar-brand{
+    color:#fff;
+    font-family:'Grandstander', cursive;
+    font-size: 48px;
+}
+.navbar-brand:hover{
+    color:rgb(177, 176, 176);
+  
+}
+nav i{
+    color: #fff;
+    font-size: 36px;
+}
+
+
+.nav-link{
+    color: #fff;
+    font-size: 19.2px;
+    font-weight: 500;
+    font-family: 'Roboto Slab', serif;;
+}
+
+.nav-link:hover{
+    color:#7987a3;
+    font-weight: 700;
+    padding-top: 0.3125rem;
+    transition: all .001s;
+
+}
+
+
+.admin-wrapper{
+height: calc(100vh - 98px);
+display: flex;
+
+}
+
+.admin-wrapper .left-sidebar{
+    flex: 2;
+    flex-direction: column;
+    height:100% ;
+    background-color: #14274e;
+
+}
+
+
+.left-sidebar ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.left-sidebar ul li a{
+    display: block;
+    padding: 1.125rem;
+    font-family: 'Roboto Slab', serif;
+    border-bottom: 1px solid #0d1b36;
+    color: white;
+    text-decoration: none;
+
+}
+
+.left-sidebar ul li a:hover{
+    background-color:#1f3c75 ;
+    padding-left: 10px;
+    transition: all .2s;
+}
+
+.admin-wrapper .admin-content{
+    flex: 8;
+    height: 100%;
+    padding: 2.5rem 6.25rem 6.25rem;
+    overflow-y: scroll;
+
+}
+
+.admin-content .page-title{
+    text-align: center;
+    font-size: 3.5rem;
+
+}
+
+table{
+    width: 100%;
+}
+
+th, td{
+    padding: 0.9375rem;
+    text-align: left;
+    border-bottom: 1px solid #d3d3d3;
+}
+
+.edit{
+    color: green;
+    text-decoration: none;
+}
+.delete{
+    color :red ;
+    text-decoration: none;
+
+}
+.edit:hover{
+    color: rgb(0, 95, 0);
+    text-decoration: none;
+}
+
+.delete:hover{
+    text-decoration: none;
+    color: rgb(197, 2, 2);
+}
+
+.view{
+    text-decoration: none;
+    color: dodgerblue;
+}
+
+.view:hover{
+    text-decoration: none;
+    color: rgb(20, 96, 172);
+}
+
+
+
+
+.article{
+    margin: 1.5rem 1rem;
+}
+
+.card-title{
+    padding: .5rem; 
+}
+
+
+/* Card */
+
+@media screen and (max-width: 600px)  {
+    .card-title{
+        font-size: 1.2rem;
+    }
+    .admin-wrapper .admin-content{
+        padding: 0;
+        margin: 0;
+    }
+
+    .admin-wrapper .admin-content .card{
+        margin-bottom: 20px;
+    }
+
+    .admin-wrapper .left-sidebar{
+        flex: 2;
+        height: 100%;
+        background-color: #14274e;
+    }
+
+
+}
+
+
+/*view comment*/
+.media{
+    -webkit-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.75);
+    border-radius: 10px;
+    position: relative;
+    background-color: #2a52a1;
+    padding: 40px 20px 20px;
+    border: 1px dashed #ffffff;
+}
+
+
+
+.btn-admin {
+    text-decoration: none;
+    background-color: #1f3c75;
+    color: #fff;
+    padding: .5rem;
+    font-size: 1.0rem;
+    border-radius: 10px;
+    border: none;
+    box-sizing: border-box;
+}
+
+.btn-admin:hover{
+    color:rgb(177, 176, 176);
+    text-decoration: none  ;
+}
+
+
+
+.message{
+    height: 200px;
+    width: 100%;
+    text-align:left;
+    background-color: #14274e;
+    font-size: 3rem;
+    color: white;
+}
+.tag-container{
+    display: block;
+    border-radius: 10px;
+    position: relative;
+    padding: 1rem;
+    margin: 1rem 0;
+    color: #2a52a1;
+    font-size: 24px;
+
+
+}
+.tag{
+    display: inline-block;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    font-weight: bolder;
+    cursor: pointer;
+    background-color: #2a52a1;
+    -webkit-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.75);
+    border: 1px dashed #ffffff;
+}
+
+.tag:hover{
+    padding: 20px;
+    z-index: 10;
+    margin: 1rem;
+}
+.comment-icon{
+    font-size: 24px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 5px 5px 5px 10px;
+    color: white;
+}
+
+.comment-text{
+    color: white;
+    font-size: 1rem;
+    margin: auto;
+    display: block;
+}
+
+@media only screen and (max-width:700px){
+    .admin-wrapper .admin-content{
+        height: 100%;
+        padding:  1rem 1rem;
+        font-size: smaller;
+        
+    
+    }
+
+    .left-sidebar{
+        display: none;
+        position: absolute;
+    }
+    
+}
