@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&display=swap');
+.dashboard-conteainer {
+    display: flex;
+    height: 100%;
+}
+
+.leftside {
+    flex: 1.5;
+    height: 100%;
+    background-color: #0f3544;
+    flex-direction: column;
+}
+
+.leftside ul {
+    width: 100%;
+    text-align: left;
+    display: block;
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+}
+
+.leftside ul li {
+    background-color: #15465a;
+    border-bottom: 1px solid #1f5f79;
+}
+
+.leftside ul li a {
+    font-size: 1.2rem;
+    padding: 20px;
+    display: block;
+    color: white;
+}
+
+.leftside ul li a:hover {
+    padding: 30px;
+    display: block;
+    color: white;
+    text-decoration: none;
+    font-size: 1.3rem;
+}
+
+.content {
+    width: 100%;
+    flex: 9;
+    color: #1c2b2d;
+    padding: 1.5rem;
+}
+
+.content table {
+    padding: 10px 0;
+    width: 100%;
+    background-color: white;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(50, 50, 50, 0.2);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(50, 50, 50, 0.2);
+    box-shadow: 0px 0px 5px 0px rgba(50, 50, 50, 0.2);
+}
+
+.content table th {
+    color: #1c2b2d;
+    font-size: 1.5rem;
+    margin: auto;
+}
+
+.content table tr td {
+    padding: 10px 5px 10px 5px;
+    font-size: 1.5rem;
+    border-bottom: 1px solid #999999;
+}
+
+.content table tr td:last-child {
+    padding: 10px 5px 10px 5px;
+    font-size: 1.5rem;
+    border-bottom: none;
+}
+
+.view {
+    color: green;
+}
+
+.delete {
+    color: red;
+}
+
+.edit {
+    color: blue;
+}
+
+.view:hover {
+    color: green;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.delete:hover {
+    color: red;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.edit:hover {
+    color: blue;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+
+.select2-container--default .select2-results__option--highlighted.select2-results__option--selectable {
+    background-color: #1f6f8b !important;
+    color: #c4bfbf !important;
+    font-size: 1.5rem;
+}
+
+.select2-selection__choice{
+    color: #1f6f8b !important;
+}
